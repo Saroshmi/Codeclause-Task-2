@@ -1,2 +1,3 @@
 # Codeclause-Task-2
 This contains the project I completed as a part of Codeclause web development internship.
+It is a URL Shortener built using HTML, CSS , Bootstrap , Javascript.
